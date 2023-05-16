@@ -10,7 +10,7 @@
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jekoo123&show_icons=true&locale=en&layout=compact" alt="jekoo123" /></p>
 
-<div>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jekoo123)](https://github.com/anuraghazra/github-readme-stats)</div>
+<div>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jekoo123)](https://github.com/jekoo123/github-readme-stats)</div>
 
 
 <!--
