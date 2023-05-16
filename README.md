@@ -9,7 +9,7 @@
 </div>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jekoo123&show_icons=true&locale=en&layout=compact" alt="jekoo123" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peter6998@naver.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jekoo123&show_icons=true&theme=radical)
 
 <!--
 **jekoo123/jekoo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
