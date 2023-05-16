@@ -3,7 +3,7 @@
   <h2>Hi! I'm Jekoo👋</h2>
   <ul>
     <li><h3>Donggku University</h3></li>
-    <li><h3>Studying Backend</h3><li>
+    <li><h3>Studying Backend</h3></li>
     <li><h3>Studying Frontend</h3></li>
   </ul>
 </div>
