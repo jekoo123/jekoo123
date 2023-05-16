@@ -4,7 +4,7 @@
   <ul>
     <li><h3>Donggku University</h3></li>
     <li><h3>Studying Backend</h3><li>
-    <li><h3>Studying Frontend<h3></li>
+    <li><h3>Studying Frontend</h3></li>
   </ul>
 </div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jekoo123&show_icons=true&locale=en&layout=compact" alt="jekoo123" /></p>
