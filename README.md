@@ -1,5 +1,5 @@
 
-<div>
+<div style="margin:auto;">
   <h2>Hi! I'm Jekoo👋</h2>
   <ul>
     <li><h3>Donggku University</h3></li>
