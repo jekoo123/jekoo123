@@ -10,8 +10,6 @@
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jekoo123&show_icons=true&locale=en&layout=compact" alt="jekoo123" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jekoo123)](https://github.com/jekoo123/github-readme-stats)
-
 
 <!--
 **jekoo123/jekoo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
