@@ -6,12 +6,12 @@
   <li> Studying Backend
 </ul>
 
-<br/>
+<hr/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jekoo123&show_icons=true&locale=en&layout=compact" alt="jekoo123" />
 </p>
-<br/>
+<hr/>
 <div align=center>
 
   ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
