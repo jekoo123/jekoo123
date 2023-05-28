@@ -1,14 +1,4 @@
 
-<!-- <div style="margin:auto;">
-  <h2>Hi! I'm Jekoo👋</h2>
-  <ul>
-    <li><h3>Dongguk University</h3></li>
-    <li><h3>Studying Backend</h3></li>
-    <li><h3>Studying Frontend</h3></li>
-  </ul>
-</div>
-
- -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Jekoo!&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=000000)
 <ul>
   <li> Dongguk University Information Communicating Engineering
@@ -16,11 +6,11 @@
   <li> Studying Backend
 </ul>
 
-
+<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jekoo123&show_icons=true&locale=en&layout=compact" alt="jekoo123" /></p>
 
-
+<br>
 <div align=center>
 
   ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
@@ -39,17 +29,3 @@
   ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
   
 </div>
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
