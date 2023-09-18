@@ -18,6 +18,7 @@
   ![React Native](https://img.shields.io/badge/React_Native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
 
+  ![Spring Boot](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/spring-6DB33F?&style=for-the-badge&logo=spring-boot)
   ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white)
   ![Node.JS](https://img.shields.io/badge/Node.JS-339933.svg?&style=for-the-badge&logo=Node.JS&logoColor=white)
