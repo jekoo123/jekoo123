@@ -9,7 +9,6 @@
 <hr/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jekoo123&show_icons=true&locale=en&layout=compact" alt="jekoo123" />
 </p>
 <hr/>
 <div align=center>
