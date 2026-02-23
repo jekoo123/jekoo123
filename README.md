@@ -6,8 +6,6 @@
   <li> Studying Backend
 </ul>
 
-<hr/>
-
 
 <hr/>
 <div align=center>
