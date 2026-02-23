@@ -8,8 +8,7 @@
 
 <hr/>
 
-<p align="center">
-</p>
+
 <hr/>
 <div align=center>
 
